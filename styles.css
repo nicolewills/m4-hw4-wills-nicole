@@ -1,0 +1,41 @@
+body {
+    background-color: lightblue;
+    max-width: 900px;
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    margin: 35px 0;
+    font-size: 20px;
+}
+
+header nav a {
+    display: block;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+img.hero
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+h2, h3, a {
+    color: darkblue;
+}
+
+article > .highlight
+{
+    font-weight: bold;
+}
+
+h2.fun {
+    color: #f07082;
+}
